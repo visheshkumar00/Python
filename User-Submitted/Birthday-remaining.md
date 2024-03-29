@@ -17,8 +17,6 @@ print(random.randint(30,40))
 print(random.randint(40,50))
 ```
  
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
-
 
 The problem is that, in every line, you have to type random.randint. As a programmer, you will be lazy. Hence, while import you can import the randint directly in your code. For that, you have to say, from random import randint. Like below:
 
