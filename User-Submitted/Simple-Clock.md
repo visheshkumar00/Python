@@ -28,7 +28,6 @@ result = double_global_x(x)
 print(result)
 print('Updated value of x:', x)
 ```
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 If you want to change the value of the variable inside a function, you have to use the global keyword. Just add a new line and put global and then the name of the variable. In that case, python will know that it will read and set value from the variable outside of the function. For example, in the code below the value of the x will become 10. 
 
@@ -62,10 +61,9 @@ while True:
  time.sleep(1)
  print('Tick')
 ```
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## The solution
-This code is submitted by: Steine Chaos / Malte Lupin
+This code is submitted by: vishesh kumar
  
 ```python
 import time
@@ -101,7 +99,6 @@ while True:
 	add()
 	display()
 ```
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## How it works
 The code is simple...We imported the time module, then, asked the user for three inputs: for the current hour, minute, and second. 
