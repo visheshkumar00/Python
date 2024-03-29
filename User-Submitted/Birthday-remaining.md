@@ -29,7 +29,6 @@ print(randint(30,40))
 print(randint(40,50))
 ```
  
-**[Try it on Programming Hero](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp)**
 
 ## Solution
 The code below is submitted by Programmer Karim...
