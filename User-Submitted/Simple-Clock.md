@@ -5,7 +5,7 @@ Create a simple clock.
 
 This problem and code example is created by Steine Chaos / Malte Lupin.
 
-If you want to see your name as a contributor to the app, find a code example that we don’t have here, and email it at programming.hero1@gmail.com
+If you want to see your name as a contributor to the app, find a code example that we don’t have here, and email it at kvishesh9634@gmail.com
 
 ## Solution Strategy
 Two things would be new for you here. 
