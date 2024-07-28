@@ -39,71 +39,69 @@ Table of Contents:
 * **[4.1](Conversions/Celsius-to-Fahrenheit.md "Miles to Kilometers")** - **[Miles to Kilometers](Conversions/Celsius-to-Fahrenheit.md)**
 * **[4.2](Conversions/Decimal-to-binary.md "Celsius to Fahrenheit")** - **[Celsius to Fahrenheitt](Conversions/Decimal-to-binary.md)**
 * **[4.3](Conversions/Decimal-to-binary-recursive.md "Decimal to binary")** - **[Decimal to binary](Conversions/Decimal-to-binary-recursive.md)**
+  
 * ### 4 -&nbsp; Conversions - 17-21
 * **[4.1](Conversions/Miles-to-Kilometers.md "Miles to Kilometers")** - **[Miles to Kilometers](Conversions/Miles-to-Kilometers.md)**
 * **[4.2](Conversions/Celsius-to-Fahrenheit.md "Celsius to Fahrenheit")** - **[Celsius to Fahrenheitt](Conversions/Celsius-to-Fahrenheit.md)**
 * **[4.3](Conversions/Decimal-to-binary.md "Decimal to binary")** - **[Decimal to binary](Conversions/Decimal-to-binary.md)**
 * **[4.4](Conversions/Decimal-to-binary-recursive.md "Decimal to binary (recursive)")** - **[Decimal to binary (recursive)](Conversions/Decimal-to-binary-recursive.md)**
 * **[4.5](https://play.google.com/store/apps/details?id=com.learnprogramming.codecamp "Binary to decimal")** - **[Binary to decimal](premium)** **- Premium Access**
-
-## [5](Solution-Strategy.md "Solution Strategy") -&nbsp; [Solution Strategy](Solution-Strategy.md) 
+ 
   
-## 6 -&nbsp; Computations
+## 5 -&nbsp; Computations
 
-* **[6.1](Computations/Simple-Interest.md "Simple Interest")** - **[Simple Interest](Computations/Simple-Interest.md)**
-* **[6.2](Computations/Complex-Interest.md "Complex Interest")** - **[Complex Interest](Computations/Complex-Interest.md)**
-* **[6.3](Computations/Calculate-Grades.md "Calculate Grades)")** - **[Calculate Grades](Computations/Calculate-Grades.md)**
-* **[6.4](Computations/Gravitational-Force.md "Gravitational Force)")** - **[Gravitational Force](Computations/Gravitational-Force.md)**
-* **[6.5](Computations/Triangle-Area.md "Triangle Area)")** - **[Triangle Area](Computations/Triangle-Area.md)**
+* **[5.1](Computations/Simple-Interest.md "Simple Interest")** - **[Simple Interest](Computations/Simple-Interest.md)**
+* **[5.2](Computations/Complex-Interest.md "Complex Interest")** - **[Complex Interest](Computations/Complex-Interest.md)**
+* **[5.3](Computations/Calculate-Grades.md "Calculate Grades)")** - **[Calculate Grades](Computations/Calculate-Grades.md)**
+* **[5.4](Computations/Gravitational-Force.md "Gravitational Force)")** - **[Gravitational Force](Computations/Gravitational-Force.md)**
+* **[5.5](Computations/Triangle-Area.md "Triangle Area)")** - **[Triangle Area](Computations/Triangle-Area.md)**
 
-## 7 -&nbsp; Prime number
+## 6 -&nbsp; Prime number
 
-* **[7.1](Prime-number/Check-Prime.md "Check Prime")** - &nbsp; **[Check Prime](Solution-Strategy.md)** 
-* **[7.2](Prime-number/Prime-Numbers.md "Prime Numbers")** - &nbsp; **[Prime Numbers](Prime-number/Prime-Numbers.md)** 
-* **[7.3](Prime-number/Prime-factors.md "Prime factors")** - &nbsp; **[Prime factors](Prime-number/Prime-factors.md)** 
-* **[7.4](Prime-number/Smallest-prime-factor.md "Smallest prime factor")** - &nbsp; **[Smallest prime factor](Prime-number/Smallest-prime-factor.md)** 
+* **[6.1](Prime-number/Check-Prime.md "Check Prime")** - &nbsp; **[Check Prime](Solution-Strategy.md)** 
+* **[6.2](Prime-number/Prime-Numbers.md "Prime Numbers")** - &nbsp; **[Prime Numbers](Prime-number/Prime-Numbers.md)** 
+* **[6.3](Prime-number/Prime-factors.md "Prime factors")** - &nbsp; **[Prime factors](Prime-number/Prime-factors.md)** 
+* **[6.4](Prime-number/Smallest-prime-factor.md "Smallest prime factor")** - &nbsp; **[Smallest prime factor](Prime-number/Smallest-prime-factor.md)** 
 
-## 8 -&nbsp; Reverse
+## 7 -&nbsp; Reverse
 
-* **[8.1](Reverse/Reverse-String.md "Reverse String")** - &nbsp; **[Reverse String](Reverse/Reverse-String.md)** 
-* **[8.2](Reverse/Reverse-String-(stack).md "Reverse String (stack)")** - &nbsp; **[Reverse String (stack)](Reverse/Reverse-String-(stack).md)** 
-* **[8.3](Reverse/Reverse-String-(recursive).md "Reverse String (recursive)")** - &nbsp; **[Reverse String (recursive)](Reverse/Reverse-String-(recursive).md)** 
-* **[8.4](Reverse/Reverse-Number.md "Reverse Number")** - &nbsp; **[Reverse Number](Reverse/Reverse-Number.md)** 
-* **[8.5](Reverse/Reverse-word.md "Reverse word")** - &nbsp; **[Reverse word](Reverse/Reverse-word.md)** 
+* **[7.1](Reverse/Reverse-String.md "Reverse String")** - &nbsp; **[Reverse String](Reverse/Reverse-String.md)** 
+* **[7.2](Reverse/Reverse-String-(stack).md "Reverse String (stack)")** - &nbsp; **[Reverse String (stack)](Reverse/Reverse-String-(stack).md)** 
+* **[7.3](Reverse/Reverse-String-(recursive).md "Reverse String (recursive)")** - &nbsp; **[Reverse String (recursive)](Reverse/Reverse-String-(recursive).md)** 
+* **[7.4](Reverse/Reverse-Number.md "Reverse Number")** - &nbsp; **[Reverse Number](Reverse/Reverse-Number.md)** 
+* **[7.5](Reverse/Reverse-word.md "Reverse word")** - &nbsp; **[Reverse word](Reverse/Reverse-word.md)** 
 
-## 9 -&nbsp; Medium
+## 8 -&nbsp; Medium
 
-* **[9.1](Medium/Check-palindrome.md "Check palindrome")** - &nbsp; **[Check palindrome](Medium/Check-palindrome.md)** 
-* **[9.2](Medium/Dictionary-of-cubes.md "Dictionary of cubes")** - &nbsp; **[Dictionary of cubes](Medium/Dictionary-of-cubes.md)** 
-* **[9.3](Medium/Armstrong-number.md "Armstrong number")** - &nbsp; **[Armstrong number](Medium/Armstrong-number.md)** 
-* **[9.4](Medium/Greatest-common-divisor.md "Greatest common divisor")** - &nbsp; **[Greatest common divisor](Medium/Greatest-common-divisor.md)** 
-* **[9.5](Medium/Least-Common-Multiple.md "Least Common Multiple")** - &nbsp; **[Least Common Multiple](Medium/Least-Common-Multiple.md)** 
+* **[8.1](Medium/Check-palindrome.md "Check palindrome")** - &nbsp; **[Check palindrome](Medium/Check-palindrome.md)** 
+* **[8.2](Medium/Dictionary-of-cubes.md "Dictionary of cubes")** - &nbsp; **[Dictionary of cubes](Medium/Dictionary-of-cubes.md)** 
+* **[8.3](Medium/Armstrong-number.md "Armstrong number")** - &nbsp; **[Armstrong number](Medium/Armstrong-number.md)** 
+* **[8.4](Medium/Greatest-common-divisor.md "Greatest common divisor")** - &nbsp; **[Greatest common divisor](Medium/Greatest-common-divisor.md)** 
+* **[8.5](Medium/Least-Common-Multiple.md "Least Common Multiple")** - &nbsp; **[Least Common Multiple](Medium/Least-Common-Multiple.md)**
+  
+## 9 -&nbsp; Simple Game
 
-## [10](Programming-Contest.md "Programming Contest") -&nbsp; [Programming Contest](Programming-Contest.md) 
+* **[9.1](Simple-Game/Guess-game.md "Guess game")** - &nbsp; **[Guess game](Simple-Game/Guess-game.md)** 
+* **[9.2](Simple-Game/Rock-paper-scissor.md "Rock paper scissor")** - &nbsp; **[Rock paper scissor](Simple-Game/Rock-paper-scissor.md)** 
+* **[9.3](Simple-Game/Cows-and-bulls.md "Cows and bulls")** - &nbsp; **[Cows and bulls](Simple-Game/Cows-and-bulls.md)** 
+* **[9.4](Simple-Game/Cows-and-bulls(4digits).md "Cows and bulls(4digits)")** - &nbsp; **[Cows and bulls(4digits)](Simple-Game/Cows-and-bulls(4digits).md)** 
+* **[9.5](Simple-Game/Word-completion.md "Word completion")** - &nbsp; **[Word completion](Simple-Game/Word-completion.md)** 
+* **[9.6](Simple-Game/Word-hangman.md "Word hangman")** - &nbsp; **[Word hangman](Simple-Game/Word-hangman.md)** 
 
-## 11 -&nbsp; Simple Game
+## 10 -&nbsp; Harder
 
-* **[11.1](Simple-Game/Guess-game.md "Guess game")** - &nbsp; **[Guess game](Simple-Game/Guess-game.md)** 
-* **[11.2](Simple-Game/Rock-paper-scissor.md "Rock paper scissor")** - &nbsp; **[Rock paper scissor](Simple-Game/Rock-paper-scissor.md)** 
-* **[11.3](Simple-Game/Cows-and-bulls.md "Cows and bulls")** - &nbsp; **[Cows and bulls](Simple-Game/Cows-and-bulls.md)** 
-* **[11.4](Simple-Game/Cows-and-bulls(4digits).md "Cows and bulls(4digits)")** - &nbsp; **[Cows and bulls(4digits)](Simple-Game/Cows-and-bulls(4digits).md)** 
-* **[11.5](Simple-Game/Word-completion.md "Word completion")** - &nbsp; **[Word completion](Simple-Game/Word-completion.md)** 
-* **[11.6](Simple-Game/Word-hangman.md "Word hangman")** - &nbsp; **[Word hangman](Simple-Game/Word-hangman.md)** 
-
-## 12 -&nbsp; Harder
-
-* **[12.1](Harder/Simple-Calculator.md "Simple Calculator")** - &nbsp; **[Simple Calculator](Harder/Simple-Calculator.md)** 
-* **[12.2](Harder/Password-generator.md "Password generator")** - &nbsp; **[Password generator](Harder/Password-generator.md)** 
-* **[12.3](Harder/Password-with-requirements.md "Password with requirements")** - &nbsp; **[Password with requirements](Harder/Password-with-requirements.md)** 
-* **[12.4](Harder/Permutations.md "Permutations")** - &nbsp; **[Permutations](Harder/Permutations.md)** 
-* **[12.5](Harder/Simple-Calculator.md "Generate Sentences")** - &nbsp; **[Generate Sentences](Harder/Simple-Calculator.md)** 
+* **[10.1](Harder/Simple-Calculator.md "Simple Calculator")** - &nbsp; **[Simple Calculator](Harder/Simple-Calculator.md)** 
+* **[10.2](Harder/Password-generator.md "Password generator")** - &nbsp; **[Password generator](Harder/Password-generator.md)** 
+* **[10.3](Harder/Password-with-requirements.md "Password with requirements")** - &nbsp; **[Password with requirements](Harder/Password-with-requirements.md)** 
+* **[10.4](Harder/Permutations.md "Permutations")** - &nbsp; **[Permutations](Harder/Permutations.md)** 
+* **[10.5](Harder/Simple-Calculator.md "Generate Sentences")** - &nbsp; **[Generate Sentences](Harder/Simple-Calculator.md)** 
 
 
-## 13 -&nbsp; User Submitted
+## 11 -&nbsp; User Submitted
 
-* **[13.1](User-Submitted/Simple-Clock.md "Simple Digital Clock")** - &nbsp; **[Simple Clock](User-Submitted/Simple-Clock.md)** 
-* **[13.2](User-Submitted/Birthday-remaining.md "Birthday-remaining.md")** - &nbsp; **[Birthday-remaining.md](User-Submitted/Birthday-remaining.md)** 
-* **[13.3](User-Submitted/Calculate-age.md "Calculate age")** - &nbsp; **[Calculate age](User-Submitted/Calculate-age.md)** 
+* **[11.1](User-Submitted/Simple-Clock.md "Simple Digital Clock")** - &nbsp; **[Simple Clock](User-Submitted/Simple-Clock.md)** 
+* **[11.2](User-Submitted/Birthday-remaining.md "Birthday-remaining.md")** - &nbsp; **[Birthday-remaining.md](User-Submitted/Birthday-remaining.md)** 
+* **[11.3](User-Submitted/Calculate-age.md "Calculate age")** - &nbsp; **[Calculate age](User-Submitted/Calculate-age.md)** 
 
 
 > Only half of the task is done. More problems are coming. If you want to add more problems, feel free to send a pull request.
